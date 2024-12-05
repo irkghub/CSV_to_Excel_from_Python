@@ -1,0 +1,10 @@
+# Ignore virtual environment directory
+venv/
+# Ignore tests directory
+tests/
+# Ignore distribution files
+*.dist
+# Ignore all other unwanted files
+*.pyc
+__pycache__/
+*.log
